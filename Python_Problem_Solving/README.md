@@ -1,4 +1,4 @@
-Hotel Entity Resolution Pipeline
+#Hotel Entity Resolution Pipeline
 PySpark • Databricks • Distributed Processing
 
 Overview:
